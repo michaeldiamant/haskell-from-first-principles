@@ -1,0 +1,27 @@
+-- 1. A value of type [a] is
+-- a) a list of alphabetic characters
+-- b) a list of lists
+-- c) a list whose elements are all of some type a
+-- d) a list whose elements are all of different types
+-- (c)
+
+-- 2. A function of type [[a]] -> [a] could
+-- a) take a list of strings as an argument
+-- b) transform a character into a string
+-- c) transform a string in to a list of strings
+-- d) take two arguments
+-- (a)
+
+-- 3. A function of type [a] -> Int -> a
+-- a) takes one argument
+-- b) returns one element of type a from a list
+-- c) must return an Int value
+-- d) is completely fictional
+-- (b)
+
+-- 4. A function of type (a, b) -> a
+-- a) takes a list argument and returns a Char value
+-- b) has zero arguments
+-- c) takes a tuple argument and returns the first value
+-- d) requires that a and b be of different types
+-- (c)
