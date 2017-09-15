@@ -119,4 +119,4 @@ rvrs = drop 9 s ++ take 4 (drop 5 s) ++ take 5 s
  where s = "Curry is awesome"
 
 -- 3.8.6 Let’s see if we can expand that function into a module.
--- My answer is in 3.8.6.hs
+-- My answer is in Reverse.hs
